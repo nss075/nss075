@@ -3,11 +3,11 @@
 <h3 align="center">B.E student at TIET,Patiala,Punjab,India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision and Machine Learning**
 
 - 📫 How to reach me **nankisohi@gmail.com**
 
-- ⚡ Fun fact **I like museums and old forts**
+- ⚡ Fun fact **I am enthusiast about travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
